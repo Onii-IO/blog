@@ -1,6 +1,6 @@
 ---
-name: test
-title: anothertest
+title: Onii - Version 1.0
+category: Update
 ---
 
 # Higa
