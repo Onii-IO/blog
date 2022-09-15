@@ -1,6 +1,7 @@
 ---
 title: Onii - Version 1.0
 category: Update
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. At atque debitis delectus, dignissimos dolores eligendi eos ex, harum magnam numquam omnis quidem reprehenderit sunt? Ad impedit laboriosam quos recusandae vel.
 ---
 
 # Higa
